@@ -1,0 +1,15 @@
+C:\Users\merta\source\repos\182114040_MertYuşaAtağ\Kutuphane.DataAcces\bin\Debug\netcoreapp3.1\Kutuphane.Entities.dll
+C:\Users\merta\source\repos\182114040_MertYuşaAtağ\Kutuphane.DataAcces\obj\Debug\netcoreapp3.1\Kutuphane.DataAccess.csprojAssemblyReference.cache
+C:\Users\merta\source\repos\182114040_MertYuşaAtağ\Kutuphane.DataAcces\obj\Debug\netcoreapp3.1\Kutuphane.DataAccess.AssemblyInfoInputs.cache
+C:\Users\merta\source\repos\182114040_MertYuşaAtağ\Kutuphane.DataAcces\obj\Debug\netcoreapp3.1\Kutuphane.DataAccess.AssemblyInfo.cs
+C:\Users\merta\source\repos\182114040_MertYuşaAtağ\Kutuphane.DataAcces\bin\Debug\netcoreapp3.1\Kutuphane.DataAccess.deps.json
+C:\Users\merta\source\repos\182114040_MertYuşaAtağ\Kutuphane.DataAcces\bin\Debug\netcoreapp3.1\Kutuphane.DataAccess.runtimeconfig.json
+C:\Users\merta\source\repos\182114040_MertYuşaAtağ\Kutuphane.DataAcces\bin\Debug\netcoreapp3.1\Kutuphane.DataAccess.runtimeconfig.dev.json
+C:\Users\merta\source\repos\182114040_MertYuşaAtağ\Kutuphane.DataAcces\bin\Debug\netcoreapp3.1\Kutuphane.DataAccess.dll
+C:\Users\merta\source\repos\182114040_MertYuşaAtağ\Kutuphane.DataAcces\bin\Debug\netcoreapp3.1\Kutuphane.DataAccess.pdb
+C:\Users\merta\source\repos\182114040_MertYuşaAtağ\Kutuphane.DataAcces\bin\Debug\netcoreapp3.1\Kutuphane.Entities.pdb
+C:\Users\merta\source\repos\182114040_MertYuşaAtağ\Kutuphane.DataAcces\obj\Debug\netcoreapp3.1\Kutuphane.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\merta\source\repos\182114040_MertYuşaAtağ\Kutuphane.DataAcces\obj\Debug\netcoreapp3.1\Kutuphane.DataAccess.csproj.CopyComplete
+C:\Users\merta\source\repos\182114040_MertYuşaAtağ\Kutuphane.DataAcces\obj\Debug\netcoreapp3.1\Kutuphane.DataAccess.dll
+C:\Users\merta\source\repos\182114040_MertYuşaAtağ\Kutuphane.DataAcces\obj\Debug\netcoreapp3.1\Kutuphane.DataAccess.pdb
+C:\Users\merta\source\repos\182114040_MertYuşaAtağ\Kutuphane.DataAcces\obj\Debug\netcoreapp3.1\Kutuphane.DataAccess.genruntimeconfig.cache

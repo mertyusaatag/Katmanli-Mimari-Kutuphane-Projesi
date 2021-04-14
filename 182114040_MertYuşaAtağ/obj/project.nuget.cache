@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lUxK6fqkPWKXh6USTDTKBJIwYPEmHK96N8LFW3dsci+TQkmWj0YDhAekZF2p3b/s6zJzg8M0SKzb971z2zvFCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\merta\\source\\repos\\182114040_MertYuşaAtağ\\182114040_MertYuşaAtağ\\182114040_MertYuşaAtağ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\merta\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\merta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

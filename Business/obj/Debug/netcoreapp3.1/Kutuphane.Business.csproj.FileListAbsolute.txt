@@ -1,0 +1,17 @@
+C:\Users\merta\source\repos\182114040_MertYuşaAtağ\Business\obj\Debug\netcoreapp3.1\Kutuphane.Business.csprojAssemblyReference.cache
+C:\Users\merta\source\repos\182114040_MertYuşaAtağ\Business\obj\Debug\netcoreapp3.1\Kutuphane.Business.AssemblyInfoInputs.cache
+C:\Users\merta\source\repos\182114040_MertYuşaAtağ\Business\obj\Debug\netcoreapp3.1\Kutuphane.Business.AssemblyInfo.cs
+C:\Users\merta\source\repos\182114040_MertYuşaAtağ\Business\obj\Debug\netcoreapp3.1\Kutuphane.Business.csproj.CoreCompileInputs.cache
+C:\Users\merta\source\repos\182114040_MertYuşaAtağ\Business\bin\Debug\netcoreapp3.1\Kutuphane.Business.deps.json
+C:\Users\merta\source\repos\182114040_MertYuşaAtağ\Business\bin\Debug\netcoreapp3.1\Kutuphane.Business.runtimeconfig.json
+C:\Users\merta\source\repos\182114040_MertYuşaAtağ\Business\bin\Debug\netcoreapp3.1\Kutuphane.Business.runtimeconfig.dev.json
+C:\Users\merta\source\repos\182114040_MertYuşaAtağ\Business\bin\Debug\netcoreapp3.1\Kutuphane.Business.dll
+C:\Users\merta\source\repos\182114040_MertYuşaAtağ\Business\bin\Debug\netcoreapp3.1\Kutuphane.Business.pdb
+C:\Users\merta\source\repos\182114040_MertYuşaAtağ\Business\bin\Debug\netcoreapp3.1\Kutuphane.DataAccess.dll
+C:\Users\merta\source\repos\182114040_MertYuşaAtağ\Business\bin\Debug\netcoreapp3.1\Kutuphane.Entities.dll
+C:\Users\merta\source\repos\182114040_MertYuşaAtağ\Business\bin\Debug\netcoreapp3.1\Kutuphane.DataAccess.pdb
+C:\Users\merta\source\repos\182114040_MertYuşaAtağ\Business\bin\Debug\netcoreapp3.1\Kutuphane.Entities.pdb
+C:\Users\merta\source\repos\182114040_MertYuşaAtağ\Business\obj\Debug\netcoreapp3.1\Kutuphane.Business.csproj.CopyComplete
+C:\Users\merta\source\repos\182114040_MertYuşaAtağ\Business\obj\Debug\netcoreapp3.1\Kutuphane.Business.dll
+C:\Users\merta\source\repos\182114040_MertYuşaAtağ\Business\obj\Debug\netcoreapp3.1\Kutuphane.Business.pdb
+C:\Users\merta\source\repos\182114040_MertYuşaAtağ\Business\obj\Debug\netcoreapp3.1\Kutuphane.Business.genruntimeconfig.cache

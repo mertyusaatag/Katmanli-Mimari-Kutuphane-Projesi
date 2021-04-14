@@ -1,0 +1,3 @@
+C:\Users\merta\Desktop\182114040_MertYuşaAtağ\Business\obj\Release\netcoreapp3.1\Kutuphane.Business.AssemblyInfoInputs.cache
+C:\Users\merta\Desktop\182114040_MertYuşaAtağ\Business\obj\Release\netcoreapp3.1\Kutuphane.Business.AssemblyInfo.cs
+C:\Users\merta\Desktop\182114040_MertYuşaAtağ\Business\obj\Release\netcoreapp3.1\Kutuphane.Business.csproj.CoreCompileInputs.cache

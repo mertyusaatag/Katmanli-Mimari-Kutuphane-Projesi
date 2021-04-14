@@ -1,0 +1,4 @@
+C:\Users\merta\Desktop\182114040_MertYuşaAtağ\Kutuphane.DataAcces\obj\Release\netcoreapp3.1\Kutuphane.DataAccess.csprojAssemblyReference.cache
+C:\Users\merta\Desktop\182114040_MertYuşaAtağ\Kutuphane.DataAcces\obj\Release\netcoreapp3.1\Kutuphane.DataAccess.AssemblyInfoInputs.cache
+C:\Users\merta\Desktop\182114040_MertYuşaAtağ\Kutuphane.DataAcces\obj\Release\netcoreapp3.1\Kutuphane.DataAccess.AssemblyInfo.cs
+C:\Users\merta\Desktop\182114040_MertYuşaAtağ\Kutuphane.DataAcces\obj\Release\netcoreapp3.1\Kutuphane.DataAccess.csproj.CoreCompileInputs.cache

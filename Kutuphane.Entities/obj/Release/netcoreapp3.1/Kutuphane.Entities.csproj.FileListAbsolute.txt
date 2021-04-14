@@ -1,0 +1,12 @@
+C:\Users\merta\Desktop\182114040_MertYuşaAtağ\Kutuphane.Entities\bin\Release\netcoreapp3.1\Kutuphane.Entities.deps.json
+C:\Users\merta\Desktop\182114040_MertYuşaAtağ\Kutuphane.Entities\bin\Release\netcoreapp3.1\Kutuphane.Entities.runtimeconfig.json
+C:\Users\merta\Desktop\182114040_MertYuşaAtağ\Kutuphane.Entities\bin\Release\netcoreapp3.1\Kutuphane.Entities.runtimeconfig.dev.json
+C:\Users\merta\Desktop\182114040_MertYuşaAtağ\Kutuphane.Entities\bin\Release\netcoreapp3.1\Kutuphane.Entities.dll
+C:\Users\merta\Desktop\182114040_MertYuşaAtağ\Kutuphane.Entities\bin\Release\netcoreapp3.1\Kutuphane.Entities.pdb
+C:\Users\merta\Desktop\182114040_MertYuşaAtağ\Kutuphane.Entities\obj\Release\netcoreapp3.1\Kutuphane.Entities.csprojAssemblyReference.cache
+C:\Users\merta\Desktop\182114040_MertYuşaAtağ\Kutuphane.Entities\obj\Release\netcoreapp3.1\Kutuphane.Entities.AssemblyInfoInputs.cache
+C:\Users\merta\Desktop\182114040_MertYuşaAtağ\Kutuphane.Entities\obj\Release\netcoreapp3.1\Kutuphane.Entities.AssemblyInfo.cs
+C:\Users\merta\Desktop\182114040_MertYuşaAtağ\Kutuphane.Entities\obj\Release\netcoreapp3.1\Kutuphane.Entities.csproj.CoreCompileInputs.cache
+C:\Users\merta\Desktop\182114040_MertYuşaAtağ\Kutuphane.Entities\obj\Release\netcoreapp3.1\Kutuphane.Entities.dll
+C:\Users\merta\Desktop\182114040_MertYuşaAtağ\Kutuphane.Entities\obj\Release\netcoreapp3.1\Kutuphane.Entities.pdb
+C:\Users\merta\Desktop\182114040_MertYuşaAtağ\Kutuphane.Entities\obj\Release\netcoreapp3.1\Kutuphane.Entities.genruntimeconfig.cache

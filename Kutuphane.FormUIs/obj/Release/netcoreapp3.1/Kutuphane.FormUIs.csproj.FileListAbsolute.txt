@@ -1,0 +1,11 @@
+C:\Users\merta\Desktop\182114040_MertYuşaAtağ\Kutuphane.FormUIs\obj\Release\netcoreapp3.1\Kutuphane.FormUIs.csprojAssemblyReference.cache
+C:\Users\merta\Desktop\182114040_MertYuşaAtağ\Kutuphane.FormUIs\obj\Release\netcoreapp3.1\Kutuphane.FormUIs.Form1.resources
+C:\Users\merta\Desktop\182114040_MertYuşaAtağ\Kutuphane.FormUIs\obj\Release\netcoreapp3.1\Kutuphane.FormUIs.Form2.resources
+C:\Users\merta\Desktop\182114040_MertYuşaAtağ\Kutuphane.FormUIs\obj\Release\netcoreapp3.1\Kutuphane.FormUIs.Form3.resources
+C:\Users\merta\Desktop\182114040_MertYuşaAtağ\Kutuphane.FormUIs\obj\Release\netcoreapp3.1\Kutuphane.FormUIs.Form4.resources
+C:\Users\merta\Desktop\182114040_MertYuşaAtağ\Kutuphane.FormUIs\obj\Release\netcoreapp3.1\Kutuphane.FormUIs.OgrenciSekmesi.resources
+C:\Users\merta\Desktop\182114040_MertYuşaAtağ\Kutuphane.FormUIs\obj\Release\netcoreapp3.1\Kutuphane.FormUIs.Properties.Resources.resources
+C:\Users\merta\Desktop\182114040_MertYuşaAtağ\Kutuphane.FormUIs\obj\Release\netcoreapp3.1\Kutuphane.FormUIs.csproj.GenerateResource.cache
+C:\Users\merta\Desktop\182114040_MertYuşaAtağ\Kutuphane.FormUIs\obj\Release\netcoreapp3.1\Kutuphane.FormUIs.AssemblyInfoInputs.cache
+C:\Users\merta\Desktop\182114040_MertYuşaAtağ\Kutuphane.FormUIs\obj\Release\netcoreapp3.1\Kutuphane.FormUIs.AssemblyInfo.cs
+C:\Users\merta\Desktop\182114040_MertYuşaAtağ\Kutuphane.FormUIs\obj\Release\netcoreapp3.1\Kutuphane.FormUIs.csproj.CoreCompileInputs.cache
